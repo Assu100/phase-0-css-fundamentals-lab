@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+
+div{
+
+    width: 25%;
+    float: left;
+    text-align: center;
+    font-family: "Helvetica Neue", sans-serif;
+    background-color: red
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  display: block;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  text-align: center;
+  font-size: small;
+}
+
+#featured-property p {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
